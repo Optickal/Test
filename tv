@@ -1,112 +1,57 @@
 #‎EXTM3U‬
 ‪#‎EXTINF‬:-0,ZDF
-
 http://109.200.202.13/live/zdf/.m3u8?bitrate=800
-
 #EXTINF:-0,ZDF NEO
-
 http://109.200.202.13/live/zdfneo/.m3u8?bitrate=800
-
 #EXTINF:-0,RTL
-
 http://109.200.202.13/live/rtl/.m3u8?bitrate=800
-
 #EXTINF:-0,RTL 2
-
 http://109.200.202.13/live/rtl2/.m3u8?bitrate=800
-
 #EXTINF:-0,RTL NITRO
-
 http://109.200.202.13/live/rtlnitro/.m3u8?bitrate=800
-
 #EXTINF:-0,SAT 1
-
 http://109.200.202.13/live/sat1/.m3u8?bitrate=800
-
 #EXTINF:-0,3SAT
-
 http://109.200.202.13/live/3sat/.m3u8?bitrate=800
-
 #EXTINF:-0,ARD
-
 http://109.200.202.13/live/ard/.m3u8?bitrate=800
-
 #EXTINF:-0,ORF1
-
 http://109.200.202.13/live/orf1/.m3u8?bitrate=800
-
 #EXTINF:-0,ORF2
-
 http://109.200.202.13/live/orf2/.m3u8?bitrate=800
-
 #EXTINF:-0,SF1
-
 http://109.200.202.13/live/sf1/.m3u8?bitrate=800
-
 #EXTINF:-0,SF2
-
 http://109.200.202.13/live/sf2/.m3u8?bitrate=800
-
 #EXTINF:-0,DISNEY CHANNEL
-
 http://109.200.202.13/live/disneychannel/.m3u8?bitrate=800
-
 #EXTINF:-0,DMAX
-
 http://109.200.202.13/live/dmax/.m3u8?bitrate=800
-
 #EXTINF:-0,EUROSPORT
-
 http://109.200.202.13/live/eurosport/.m3u8?bitrate=800
-
 #EXTINF:-0,KABEL1
-
 http://109.200.202.13/live/kabel1/.m3u8?bitrate=800
-
 #EXTINF:-0,KIKA
-
 http://109.200.202.13/live/kika/.m3u8?bitrate=800
-
 #EXTINF:-0,N24
-
 http://109.200.202.13/live/n24/.m3u8?bitrate=800
-
 #EXTINF:-0,NICK+CC
-
 http://109.200.202.13/live/nickcc/.m3u8?bitrate=800
-
 #EXTINF:-0,PRO 7 MAXX
-
 http://109.200.202.13/live/pro7maxx/.m3u8?bitrate=800
-
 #EXTINF:-0,PRO 7
-
 http://109.200.202.13/live/pro7/.m3u8?bitrate=800
-
 #EXTINF:-0,SIXX
-
 http://109.200.202.13/live/sixx/.m3u8?bitrate=800
-
 #EXTINF:-0,SPORT 1
-
 http://109.200.202.13/live/sport1/.m3u8?bitrate=800
-
 #EXTINF:-0,SUPER RTL
-
 http://109.200.202.13/live/superrtl/.m3u8?bitrate=800
-
 #EXTINF:-0,TELE 5
-
 http://109.200.202.13/live/tele5/.m3u8?bitrate=800
-
 #EXTINF:-0,VIVA
-
 http://109.200.202.13/live/viva/.m3u8?bitrate=800
-
 #EXTINF:-0,VOX
-
 http://109.200.202.13/live/vox/.m3u8?bitrate=800
-
 #EXTINF:-0,3PLUS
-
 http://109.200.202.13/live/3plus/.m3u8?bitrate=800
