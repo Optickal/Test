@@ -1,4 +1,5 @@
 #‎EXTM3U‬
+
 ‪#‎EXTINF‬:-0,ZDF
 http://109.200.202.13/live/zdf/.m3u8?bitrate=800
 #EXTINF:-0,ZDF NEO
