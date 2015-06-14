@@ -1,147 +1,87 @@
 #EXTM3U
-#EXTINF:-1,daserste
-http://stream.deg.net/livehttp/daserste.m3u8
-
-#EXTINF:-1,einsplus
-http://stream.deg.net/livehttp/einsplus.m3u8
-
-#EXTINF:-1,neo
-http://stream.deg.net/livehttp/neo.m3u8
-
-#EXTINF:-1,orf1
-http://stream.deg.net/livehttp/orf1.m3u8
-
-#EXTINF:-1,orf2
-http://stream.deg.net/livehttp/orf2.m3u8
-
-‪#EXTINF:-1,3sat
-http://stream.deg.net/livehttp/3sat.m3u8
-
-#EXTINF:-1,arte
-http://stream.deg.net/livehttp/arte.m3u8
-
-#EXTINF:-1,atv
-http://stream.deg.net/livehttp/atv.m3u8
-
-#EXTINF:-1,zdf
-http://stream.deg.net/livehttp/zdf.m3u8
-
-#EXTINF:-1,br
-http://stream.deg.net/livehttp/br.m3u8
-
-#EXTINF:-1,phoenix
-http://stream.deg.net/livehttp/phoenix.m3u8
-
-#EXTINF:-1,swr
-http://stream.deg.net/livehttp/swr.m3u8
-
-#EXTINF:-1,tele5
-http://stream.deg.net/livehttp/tele5.m3u8 
-
 #EXTINF:0,Das Erste
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-
-#EXTINF:0,ZDF INFO
-http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8
-
-#EXTINF:0,ZDF KULTUR
-http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
-
-#EXTINF:0,ZDF NEO
-http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8
-
+rtp://@239.35.10.4:10000
+#EXTINF:0,Das Erste HD
+rtp://@239.35.10.1:10000
 #EXTINF:0,ZDF
-http://zdf_hds_de-f.akamaihd.net/i/de14_v1@147090/master.m3u8
-
-#EXTINF:-1,Pro 7 Maxx
-http://82.220.10.2/udp/239.3.0.105:1234
-
-#EXTINF:-1,RTL
-http://82.220.10.2/udp/239.3.0.90:1234
-
-#EXTINF:0, RTL Nitro
-http://212.79.96.134:8026
-
-#EXTINF:-1,SAT 1
-http://82.220.10.2/udp/239.3.0.107:1234
-
-#EXTINF:0,sixx
-http://s5.stream-server.org:1935/live/sixx.stream/HasBahCa.m3u8
-
-#EXTINF:-1, Pro 7
-http://artm:artm@84.22.33.22:8000
-
-#EXTINF:-1,VOX
-http://88.212.11.206:5000/live/66/66.m3u8
-
-#EXTINF:-1,RTL2
-http://s4.stream-server.org:1935/live/rtl2.stream/HasBahCa.m3u8
-
-#EXTINF:-1,SUPER RTL
-http://s5.stream-server.org:1935/live/superrtl.stream/HasBahCa.m3u8
-
-#EXTINF:-1,kabel eins
-http://82.220.10.2/udp/239.3.0.102:1234
-
-#EXTINF:0,DMAX
-http://s3.stream-server.org:1935/live/dmax.stream/HasBahCa.m3u8
-
-#EXTINF:0,orf1
-http://s5.stream-server.org:1935/live/orf1.stream/HasBahCa.m3u8
-
-#EXTINF:0,orf2
-http://s2.stream-server.org:1935/live/orf2.stream/HasBahCa.m3u8
-
-#EXTINF:0,atv
-http://s4.stream-server.org:1935/live/atv.stream/HasBahCa.m3u8
-
-#EXTINF:-1,KIKA
-http://82.220.10.2/udp/239.3.0.17:1234
-
-#EXTINF:0,Nick
-http://s4.stream-server.org:1935/live/nickcc.stream/HasBahCa.m3u8
-
-#EXTINF:-1,Viva
-http://212.79.96.134:8007/
-
-#EXTINF:-1,n-tv
-http://82.220.10.2/udp/239.3.0.98:1234
-
-#EXTINF:0,N24
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-
-#EXTINF:0,phoenix
-http://s1.stream-server.org:1935/live/phoenix.stream/HasBahCa.m3u8
-
-#EXTINF:0,sf1
-http://s1.stream-server.org:1935/live/sf1.stream/HasBahCa.m3u8
-
-#EXTINF:0,sf2
-http://s2.stream-server.org:1935/live/sf2.stream/HasBahCa.m3u8
-
-#EXTINF:-1,DELUXE MUSIC
-http://flash3.ipercast.net/deluxemusic.tv-live/web_850.stream/playlist.m3u8
-
-#EXTINF:0,eurosport
-http://s4.stream-server.org:1935/live/eurosport.stream/HasBahCa.m3u8
-
-#EXTINF:0,swr
-http://s3.stream-server.org:1935/live/swr.stream/HasBahCa.m3u8
-
-#EXTINF:0,MDR
-http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
-
-#EXTINF:0,N24
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-
-#EXTINF:0,RBB
-http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/index_1728_av-p.m3u8
-
-#EXTINF:0,TV Aktuell
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8 
-
-#EXTINF:-1,EURONEWS
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-
-#EXTINF:-1,HR
-rtmp://cp121363.live.edgefcs.net/live/hr-fernsehen_768@53002
+rtp://@239.35.10.5:10000
+#EXTINF:0,ZDF HD
+rtp://@239.35.10.2:10000
+#EXTINF:0,ZDF.kultur
+rtp://@239.35.10.23:10000
+#EXTINF:0,ZDF.neo
+rtp://@239.35.10.27:10000
+#EXTINF:0,ZDF.info
+rtp://@239.35.10.28:10000
+#EXTINF:0,BR Nord
+rtp://@239.35.10.13:10000
+#EXTINF:0,BR Süd
+rtp://@239.35.10.7:10000
+#EXTINF:0,BR-alpha
+rtp://@239.35.10.24:10000
+#EXTINF:0,hr-fernsehen
+rtp://@239.35.10.8:10000
+#EXTINF:0,MDR Sachsen
+rtp://@239.35.10.9:10000
+#EXTINF:0,MDR Sachsen-Anhalt
+rtp://@239.35.10.29:10000
+#EXTINF:0,MDR Thüringen
+rtp://@239.35.10.30:10000
+#EXTINF:0,NDR
+rtp://@239.35.10.10:10000
+#EXTINF:0,NDR Hamburg
+rtp://@239.35.10.31:10000
+#EXTINF:0,NDR Mecklenburg-Vorpommern
+rtp://@239.35.10.32:10000
+#EXTINF:0,NDR Schleswig-Holstein
+rtp://@239.35.10.33:10000
+#EXTINF:0,Radio Bremen TV
+rtp://@239.35.10.12:10000
+#EXTINF:0,rbb Berlin
+rtp://@239.35.10.14:10000
+#EXTINF:0,rbb Brandenburg
+rtp://@239.35.10.34:10000
+#EXTINF:0,SR Fernsehen
+rtp://@239.35.10.15:10000
+#EXTINF:0,SWR BW
+rtp://@239.35.10.16:10000
+#EXTINF:0,SWR RPF
+rtp://@239.35.10.17:10000
+#EXTINF:0,WDR
+rtp://@239.35.10.18:10000
+#EXTINF:0,WDR Aachen
+rtp://@239.35.10.35:10000
+#EXTINF:0,WDR Bielefeld
+rtp://@239.35.10.36:10000
+#EXTINF:0,WDR Bonn
+rtp://@239.35.10.37:10000
+#EXTINF:0,WDR Dortmund
+rtp://@239.35.10.38:10000
+#EXTINF:0,WDR Duisburg
+rtp://@239.35.10.39:10000
+#EXTINF:0,WDR Düsseldorf
+rtp://@239.35.10.40:10000
+#EXTINF:0,WDR Essen
+rtp://@239.35.10.41:10000
+#EXTINF:0,WDR Münster
+rtp://@239.35.10.42:10000
+#EXTINF:0,WDR Siegen
+rtp://@239.35.10.43:10000
+#EXTINF:0,WDR Wuppertal
+rtp://@239.35.10.44:10000
+#EXTINF:0,EinsExtra
+rtp://@239.35.10.25:10000
+#EXTINF:0,Einsfestival
+rtp://@239.35.10.21:10000
+#EXTINF:0,EinsPlus
+rtp://@239.35.10.26:10000
+#EXTINF:0,3sat
+rtp://@239.35.10.6:10000
+#EXTINF:0,ARTE
+rtp://@239.35.10.20:10000
+#EXTINF:0,ARTE HD
+rtp://@239.35.10.3:10000
+#EXTINF:0,Ki.Ka
+rtp://@239.35.10.19:10000
+#EXTINF:0,PHOENIX
+rtp://@239.35.10.22:10000
