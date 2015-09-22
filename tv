@@ -1,87 +1,46 @@
+
 #EXTM3U
-#EXTINF:0,Das Erste
-rtp://@239.35.10.4:10000
-#EXTINF:0,Das Erste HD
-rtp://@239.35.10.1:10000
-#EXTINF:0,ZDF
-rtp://@239.35.10.5:10000
-#EXTINF:0,ZDF HD
-rtp://@239.35.10.2:10000
-#EXTINF:0,ZDF.kultur
-rtp://@239.35.10.23:10000
-#EXTINF:0,ZDF.neo
-rtp://@239.35.10.27:10000
-#EXTINF:0,ZDF.info
-rtp://@239.35.10.28:10000
-#EXTINF:0,BR Nord
-rtp://@239.35.10.13:10000
-#EXTINF:0,BR Süd
-rtp://@239.35.10.7:10000
-#EXTINF:0,BR-alpha
-rtp://@239.35.10.24:10000
-#EXTINF:0,hr-fernsehen
-rtp://@239.35.10.8:10000
-#EXTINF:0,MDR Sachsen
-rtp://@239.35.10.9:10000
-#EXTINF:0,MDR Sachsen-Anhalt
-rtp://@239.35.10.29:10000
-#EXTINF:0,MDR Thüringen
-rtp://@239.35.10.30:10000
-#EXTINF:0,NDR
-rtp://@239.35.10.10:10000
-#EXTINF:0,NDR Hamburg
-rtp://@239.35.10.31:10000
-#EXTINF:0,NDR Mecklenburg-Vorpommern
-rtp://@239.35.10.32:10000
-#EXTINF:0,NDR Schleswig-Holstein
-rtp://@239.35.10.33:10000
-#EXTINF:0,Radio Bremen TV
-rtp://@239.35.10.12:10000
-#EXTINF:0,rbb Berlin
-rtp://@239.35.10.14:10000
-#EXTINF:0,rbb Brandenburg
-rtp://@239.35.10.34:10000
-#EXTINF:0,SR Fernsehen
-rtp://@239.35.10.15:10000
-#EXTINF:0,SWR BW
-rtp://@239.35.10.16:10000
-#EXTINF:0,SWR RPF
-rtp://@239.35.10.17:10000
-#EXTINF:0,WDR
-rtp://@239.35.10.18:10000
-#EXTINF:0,WDR Aachen
-rtp://@239.35.10.35:10000
-#EXTINF:0,WDR Bielefeld
-rtp://@239.35.10.36:10000
-#EXTINF:0,WDR Bonn
-rtp://@239.35.10.37:10000
-#EXTINF:0,WDR Dortmund
-rtp://@239.35.10.38:10000
-#EXTINF:0,WDR Duisburg
-rtp://@239.35.10.39:10000
-#EXTINF:0,WDR Düsseldorf
-rtp://@239.35.10.40:10000
-#EXTINF:0,WDR Essen
-rtp://@239.35.10.41:10000
-#EXTINF:0,WDR Münster
-rtp://@239.35.10.42:10000
-#EXTINF:0,WDR Siegen
-rtp://@239.35.10.43:10000
-#EXTINF:0,WDR Wuppertal
-rtp://@239.35.10.44:10000
-#EXTINF:0,EinsExtra
-rtp://@239.35.10.25:10000
-#EXTINF:0,Einsfestival
-rtp://@239.35.10.21:10000
-#EXTINF:0,EinsPlus
-rtp://@239.35.10.26:10000
-#EXTINF:0,3sat
-rtp://@239.35.10.6:10000
-#EXTINF:0,ARTE
-rtp://@239.35.10.20:10000
-#EXTINF:0,ARTE HD
-rtp://@239.35.10.3:10000
-#EXTINF:0,Ki.Ka
-rtp://@239.35.10.19:10000
-#EXTINF:0,PHOENIX
-rtp://@239.35.10.22:10000
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Bundesliga
+
+http://balkanstream.com/stream/skybundes/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Sport 1
+
+http://balkanstream.com/stream/skysport01/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Sport 2
+
+http://balkanstream.com/stream/skysport02/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Cinema
+
+http://balkanstream.com/stream/skycinema/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Emotion
+
+http://balkanstream.com/stream/skyEmotion/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Comedy
+
+http://balkanstream.com/stream/skycomedy/amela/amela
+
+#EXTVLCOPT:network-caching=4500
+
+#EXTINF:0, Sky Akcion
+
+http://balkanstream.com/stream/skyAkcion/amela/amela
+
+#EXTVLCOPT:network-caching=4500
