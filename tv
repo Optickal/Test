@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0,ARDHD1
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/105.ts
+#EXTINF:0,Test
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/104.ts
+#EXTINF:0,Test1
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/103.ts
+#EXTINF:0,Test2
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/102.ts
+#EXTINF:0,Test3
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/101.ts
+#EXTINF:0,Test4
+http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/100.ts
 #EXTINF:0,SRF1HD
 http://teleboy.customers.cdn.iptv.ch/1008/index.m3u8
 #EXTINF:0,SRF2HD
