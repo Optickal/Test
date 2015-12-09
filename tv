@@ -1,63 +1,20 @@
-#EXTM3U
-#EXTINF:0,ARDHD1
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/105.ts
-#EXTINF:0,Test
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/104.ts
-#EXTINF:0,Test1
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/103.ts
-#EXTINF:0,Test2
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/102.ts
-#EXTINF:0,Test3
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/101.ts
-#EXTINF:0,Test4
-http://iphdtv.ddns.net:8330/live/FreeTest/4sWz6NA4IW/100.ts
-#EXTINF:0,SRF1HD
-http://teleboy.customers.cdn.iptv.ch/1008/index.m3u8
-#EXTINF:0,SRF2HD
-http://teleboy.customers.cdn.iptv.ch/1009/index.m3u8
-#EXTINF:0,ARDHD
-http://teleboy.customers.cdn.iptv.ch/1165/index.m3u8
-#EXTINF:0,ZDFHD
-http://teleboy.customers.cdn.iptv.ch/1166/index.m3u8
-#EXTINF:0,ORF1HD
-http://teleboy.customers.cdn.iptv.ch/1010/index.m3u8
-#EXTINF:0,ORF2HD
-http://teleboy.customers.cdn.iptv.ch/1011/index.m3u8
-#EXTINF:0,ArteHD
-http://teleboy.customers.cdn.iptv.ch/1150/index.m3u8
-#EXTINF:0,3satHD
-http://teleboy.customers.cdn.iptv.ch/1117/index.m3u8
-#EXTINF:0,Pro7chHD
-http://teleboy.customers.cdn.iptv.ch/1037/index.m3u8
-#EXTINF:0,Sat.1chHD
-http://teleboy.customers.cdn.iptv.ch/1038/index.m3u8
-#EXTINF:0,RTLchHD
-http://teleboy.customers.cdn.iptv.ch/1020/index.m3u8
-#EXTINF:0,RTL2chHD
-http://teleboy.customers.cdn.iptv.ch/1024/index.m3u8
-#EXTINF:0,S-RTLchHD
-http://teleboy.customers.cdn.iptv.ch/1023/index.m3u8
-#EXTINF:0,VOXchHD
-http://teleboy.customers.cdn.iptv.ch/1021/index.m3u8
-#EXTINF:0,Kabel1chHD
-http://teleboy.customers.cdn.iptv.ch/1039/index.m3u8
-#EXTINF:0,3+HD
-http://teleboy.customers.cdn.iptv.ch/1013/index.m3u8
-#EXTINF:0,4+HD
-http://teleboy.customers.cdn.iptv.ch/1031/index.m3u8
-#EXTINF:0,BRHD
-http://teleboy.customers.cdn.iptv.ch/1112/index.m3u8
-#EXTINF:0,NDRHD
-http://teleboy.customers.cdn.iptv.ch/1115/index.m3u8
-#EXTINF:0,SWR-BW-HD
-http://teleboy.customers.cdn.iptv.ch/1114/index.m3u8
-#EXTINF:0,WDRHD
-http://teleboy.customers.cdn.iptv.ch/1113/index.m3u8
-#EXTINF:0,RTLNitroHD
-http://teleboy.customers.cdn.iptv.ch/1027/index.m3u8
-#EXTINF:0,ServusTVHD
-http://teleboy.customers.cdn.iptv.ch/1012/index.m3u8
-#EXTINF:0,PHOENIXHD
-http://teleboy.customers.cdn.iptv.ch/1122/index.m3u8
-#EXTINF:0,sixxHD
-http://teleboy.customers.cdn.iptv.ch/1040/index.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="556489.png", [COLOR olivedrab]Sat.1 HD[/COLOR]
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtlhd.png",[COLOR olivedrab]RTL HD[/COLOR]
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="ProSieben HD.png",[COLOR olivedrab]PRO 7 HD[/COLOR]
+http://46.101.171.43/live/UE5MZkh6MEdKUnNVWFN4S0ZYYjVWS25IdGltcjVjOExKVmJLV25vOXcvYUFmTSswMENCR1Zac0FPbTl3YU5NVFREYmdJZlArMkZlOCtuYWNHSXdEUnNkZ2JSeWd6RlBRMnV0bnF6RkgwaGVhTkYyZmNvMDh4YU5iTWQzVU9vTitLdmpzOFZ1T3UxNmIyeE9YMXRoOE53VDh1Uy80RlFDWG5iQzdDTDNuTklFPQ.m3u8
+#EXTINF:-1 tvg-id="Kabel.de" tvg-logo="kabel1hd.png", [COLOR olivedrab]kabel eins HD[/COLOR]
+http://46.101.171.43/live/MlF6WjBuTXdLeHI5UWU1aVpoOUNVU0xFZk0xdklrdnBjUHJKMC9raCtpOENrTytZWHN4emc4NVNTTlF1UGVyODh4c1Z2dVZVL1FjZFc3MVJhUU0ybnFUQjBnWjdESjkwci9LenN6citXNVJLeXhURWxIeENLMmYxNHoxYVVTTlpjTDFOcytMSlJiSjB0OFp0dzZKREwwZ05OOFpsSStRNmJCbWhxV0lnb0VrPQ.m3u8
+#EXTINF:-1 tvg-id="Vox.de" tvg-logo="voxhd.png", [COLOR olivedrab]VOX HD[/COLOR]
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="pro7maxx.png",[COLOR olivedrab]PRO7 MAXX[/COLOR]
+http://46.101.171.43/live/UHdISXRSZ3F1Z0JybTJSeTV2WTgyckgzWlBUUnYyM1ZuZEhodXQvMWlxV2NTKy9jcXJkS3RleW5WbmdTdWdOWXh1RmNWdU83bS9rcGxKb0F4ZDhldVVVeWVWUmxhcElpUHIvQ1ozNStVVWZLNGp1TWFQR0graW5DUkdmZi9KR0NtVlg1VjRVN05OMytqb0d2b3R6Y25MbTBhRGwzQVgzMDFUQXVHVTllYlA4PQ.m3u8
+#EXTINF:-1 tvg-id="Sixx.de" tvg-logo="sixxhd.png", [COLOR olivedrab]Sixx HD[/COLOR]
+http://46.101.171.43/live/OEdGdnhReVVyUWozdEtITngzeHNHd3JtK2xjbzMxTTNZaFl4ZUh5WnJWZjJSSVppOUxsRlVmQzM5MXlLQlE1QW82c0pSRmFxQjZOaGhjMlJtT1NjR080VGs0YnQzdXFPdmJLcVAwWmJNNGxvS0NDSmt0a05JZUY4VVRRcVVyZENqZnU4RDJYaTlyZGVtdUNRbXR0ZmljTW9yczVsRmlnbmswa2pnSlp1VDEwPQ.m3u8
+#EXTINF:-1 tvg-id="3plus.ch" tvg-logo="3+HD.png",3plus HD
+http://46.101.171.43/live/QUYydlRvMVpYK2RYZ0g5S3VsSmNYSFlDQ3Q2bGVUR3YrR1hFTUoxc0piU3U4aUhWNnBpZXhURXMxOHAwY2tmLzZ3WVBaSE5YdVZHeDc3SWljRzVZWHhnbUpsN20yM1pKTWZpeC9LenJNWnFKSWxCUXNKNmtiUjFrVVRvaURRZGowY0V6Q1NGb0V5WmVIb3Y2QlRVeWFMT2RDblR0QzFNNDlGZUF3V3dFT2Y4PQ.m3u8
+#EXTINF:-1 tvg-id="4plus.ch" tvg-logo="4+HD.png",4plus HD
+http://46.101.171.43/live/Y0R0eGVadEpQWDZMRWVrOG0zVXh0MkI3NHZnV0Zvb3JDZUN3aFAxUHYrQmNIdTNPeDNQRkZ1T3NHN1VsR3VmT3ZoQ1AyUHZKblZFYUo5Vkh5b2Jvb1JnaythcGc3NHdSbHFXVnRJWmxjVGdsa0lCcHg4UXFoOUI1dVRvY0YvS3lrcnZQRHBsamIvRzNwWC80OFRtNUVrU3lWUWdlY0NsMU9KY043YnBlN1VvPQ.m3u8
+#EXTINF:-1 tvg-id="5plus.ch" tvg-logo="5+HD.png",5plus HD
+http://46.101.171.43/live/WFQwODROcHpFL3lycVRYRWMrNmlHamljQ3hHSU5ZQS9XTlowNWFVUXNtbkJBNzZ0cUtsQUQ0aHgrVkVreUxvMCtPem1XZ0QyMFlRK3JoLy8yWEpaeG9DazllT1N0NGlZdTdXY0pEZ0dpWlBleWVyQjdnZm9NancxTEYvdTBNc283Tlk3SzF4dFh3ZkdRbjdZSlMvVXFKR3lHcVZoZTFqOVQyQWZhakQ3VU5RPQ.m3u8
