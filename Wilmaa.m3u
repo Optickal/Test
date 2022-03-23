@@ -177,7 +177,18 @@ https://streams.wilmaa.com/m3u8/get?channelId=tv_8&profile=8
 https://streams.wilmaa.com/m3u8/get?channelId=tso_hd&profile=8
 #EXTINF:-1 tvg-id="TV24.ch" tvg-name="TV24 HD" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv24_hd.png" group-title="Favoriten",TV24 HD
 https://streams.wilmaa.com/m3u8/get?channelId=tv24_hd&profile=8
-#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Deutschland Visual",DASDING-VisualRadio
+
+#EXTINF:-1 tvg-id="RegioTVbodensee.de" tvg-name="RegioTV Bodensee HD" tvg-logo="https://www.regio-tv.de/wp-content/themes/cmms-theme-regio_tv/assets/img/regio-tv-logo-bodensee.png" group-title="Favoriten",RegioTV Bodensee HD
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RegioTVschwaben.de" tvg-name="RegioTV Schwaben HD" tvg-logo="https://www.regio-tv.de/wp-content/themes/cmms-theme-regio_tv/assets/img/regio-tv-logo-schwaben.png" group-title="Favoriten",RegioTV Schwaben HD
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RegioTVstuttgart.de" tvg-name="RegioTV Stuttgart HD" tvg-logo="https://www.regio-tv.de/wp-content/themes/cmms-theme-regio_tv/assets/img/regio-tv-logo-stuttgart.png" group-title="Favoriten",RegioTV Stuttgart HD
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Radio",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/rtl-1025-it.png" group-title="Radio",RTL 102.5 HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
@@ -211,11 +222,14 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-name="RTV San Marino" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 tvg-id="oe3.at" tvg-name="Ö3-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png" group-title="Musik",Ö3-VisualRadio
+#EXTINF:-1 tvg-id="oe3.at" tvg-name="Ö3-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png" group-title="Radio",Ö3-VisualRadio
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
-#EXTINF:-1 tvg-id="swr3.de" tvg-name="SWR3-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png" group-title="Musik",SWR3-VisualRadio
+#EXTINF:-1 tvg-id="swr3.de" tvg-name="SWR3-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png" group-title="Radio",SWR3-VisualRadio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Musik",DASDING-VisualRadio
+#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Radio",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-name="KroneHitTv" tvg-id="KHTV" group-title="Radio" tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s",[COLOR yellow] KroneHit TV [/COLOR]
+#EXTINF:-1 tvg-name="KroneHitTv" tvg-id="KHTV" group-title="Radio" tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="Oberjoch Webcam" tvg-id="OJ" group-title="Webcam" tvg-logo="https://www.bergbahnen-hindelang-oberjoch.de/wp-content/themes/bho-2019/assets/images/logo.png",Oberjoch Webcam Kasse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8?session=eaebeef6-745e-4e4e-8c94-6cfcb3e24ed0
