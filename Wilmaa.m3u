@@ -239,3 +239,10 @@ https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8?session=eaebe
 https://stream.webcam-livestream.at/live/mellaurossstelle/index.m3u8
 #EXTINF:-1 group-title="Webcam" tvg-logo="https://www.damuels-mellau.at/bundles/clientwebsite/damuels_mellau/img/damuels_mellau_logo.png",Mellau Rosenstelle Berg
 https://stream.webcam-livestream.at/live/rossstelleberg/index.m3u8
+
+
+#EXTINF:-1 group-title="Webcam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ServusTV_HD.svg/1292px-ServusTV_HD.svg.png?20161208153719",ServusTV Österreich
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
+
+
