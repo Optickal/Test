@@ -241,7 +241,7 @@ https://stream.webcam-livestream.at/live/mellaurossstelle/index.m3u8
 https://stream.webcam-livestream.at/live/rossstelleberg/index.m3u8
 
 
-#EXTINF:-1 group-title="ServusTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ServusTV_HD.svg/1292px-ServusTV_HD.svg.png?20161208153719",ServusTV Österreich
+#EXTINF:-1 group-title="ServusTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ServusTV_HD.svg/320px-ServusTV_HD.svg.png",ServusTV Österreich
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
 
