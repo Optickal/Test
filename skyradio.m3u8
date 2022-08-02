@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:,
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sky_Radio_Logo_neu.svg/1024px-Sky_Radio_Logo_neu.svg.png
+#EXTINF:,
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXT-X-ENDLIST
