@@ -234,7 +234,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 group-title="Webcam" tvg-logo="https://i.ibb.co/CPfTkDF/Bergbahnen-Hindelang-Oberjoch.png",Oberjoch Webcam Kasse
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d_720.m3u8?session=eaebeef6-745e-4e4e-8c94-6cfcb3e24ed0
+https://ch-fra-n16.livespotting.com/vpu/d6se1ryf/edlyww6d.m3u8?
 #EXTINF:-1 group-title="Webcam" tvg-logo="https://www.damuels-mellau.at/bundles/clientwebsite/damuels_mellau/img/damuels_mellau_logo.png",Mellau Rosenstelle
 https://stream.webcam-livestream.at/live/mellaurossstelle/index.m3u8
 #EXTINF:-1 group-title="Webcam" tvg-logo="https://www.damuels-mellau.at/bundles/clientwebsite/damuels_mellau/img/damuels_mellau_logo.png",Mellau Rosenstelle Berg
